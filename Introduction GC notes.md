@@ -35,3 +35,9 @@
 - Reducing insider risk - Google aggressively limits and actively monitors the activities of employees who have been granted administrative access to the infrastructure
 - Employee U2F use - To guard against phishing attacks against Google employees, employee accounts require use of U2F-compatible Security Keys.
 - Software development practices - Google employs central source control and requires two-party review of new code. Google runs a Vulnerability Rewards Program where we pay anyone who is able to discover and inform us of bugs in our infrastructure or applications.
+
+#### Billing
+- Google was the first major cloud provider to deliver per-second billing for its infrastructure-as-a-service compute offering, Compute Engine
+- Our online pricing calculator can help estimate your costs
+- There are two types of quotas: rate quotas and allocation quotas.- 
+
